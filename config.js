@@ -36,7 +36,7 @@ module.exports = {
       github: 'axme100',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'max-carey',
       instagram: '#',
       line: '',
       gitlab: '',
