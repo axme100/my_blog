@@ -6,3 +6,5 @@ npm-debug.log
 .gatsby-context.js
 .idea
 gatsby-starter-lumen.iml
+# Ignore the file order files on mac
+*.DS_Store*
