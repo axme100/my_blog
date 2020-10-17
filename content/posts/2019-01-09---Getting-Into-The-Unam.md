@@ -1,9 +1,9 @@
 ---
-title: Getting into a Postgraduate Program at the UNAM
+title: Getting in to a Postgraduate Program at the UNAM
 date: "2019-01-30T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "getting-into-unam"
+slug: "getting_in_to_a_postgraduate_program_at_the_unam""
 category: "Study abroad"
 tags:
   - "Posgrado"
